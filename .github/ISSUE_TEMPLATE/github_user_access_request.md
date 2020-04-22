@@ -1,5 +1,5 @@
 ---
-name: Request for BCGOV GitHub Organization Membership
+name: Request for BCGOV-NR GitHub Organization Membership
 about: To grant or remove access for a team member to BCGOV GitHub repositories.
 title: ''
 labels: github-membership
