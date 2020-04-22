@@ -1,5 +1,5 @@
-## DevOps Requests:
-To get started on the IIT platform, you and your team will need access to certain resources. This is the place to request them.
+## BCGOV-NR Requests:
+To get started on the BCGOV-NR/IIT Platform, you and your team will need access to certain resources. This is the place to request them.
 
 ### In a nutshell:
 We are using this GitHub repository to manage the requests. Each request will be in a _GitHub Issue_.
