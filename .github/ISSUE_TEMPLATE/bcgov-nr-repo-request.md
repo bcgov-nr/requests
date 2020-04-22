@@ -3,7 +3,7 @@ name: Request for bcgov-nr GitHub Repository
 about: To create or remove a bcgov-nr GitHub repository.
 title: ''
 labels: github-repo, pending
-assignees: webgismd, mitovskaol
+assignees: webgismd
 
 ---
 
