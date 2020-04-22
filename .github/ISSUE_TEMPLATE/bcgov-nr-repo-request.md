@@ -1,6 +1,6 @@
 ---
-name: Request for BCDevOps GitHub Repository
-about: To create or remove a BCDevOps GitHub repository.
+name: Request for bcgov-nr GitHub Repository
+about: To create or remove a bcgov-nr GitHub repository.
 title: ''
 labels: github-repo, pending
 assignees: webgismd, mitovskaol
@@ -9,7 +9,7 @@ assignees: webgismd, mitovskaol
 
 ## Step 0
 
-**Are you a member of the BCDevOps GitHub Organization already?**
+**Are you a member of the bcgov-nr GitHub Organization already?**
 If not, you will need to request membership first. Return to the Issues page and fill out that request first.
 
 **Are you sure this is the appropriate organization?**
