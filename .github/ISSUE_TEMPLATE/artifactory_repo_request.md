@@ -3,7 +3,7 @@ name: Request for Artifactory Repo
 about: Find more info about Artifactory at https://developer.gov.bc.ca/Using-Artifactory and in the devops-artifactory channel on RC.
 title: ''
 labels: artifactory-repo
-assignees: caggles, ShellyXueHan
+assignees: webgismd
 
 ---
 
@@ -14,7 +14,7 @@ https://developer.gov.bc.ca/Using-Artifactory
 
 ## Step 2
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov-nr/requests/issues
 
 
 ## Step 3

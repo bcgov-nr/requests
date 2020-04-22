@@ -3,7 +3,7 @@ name: Request for BCGOV GitHub Organization Membership
 about: To grant or remove access for a team member to BCGOV GitHub repositories.
 title: ''
 labels: github-membership
-assignees: caggles, ShellyXueHan
+assignees: webgismd
 
 ---
 
@@ -31,7 +31,7 @@ https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-reques
 
 ## Step 2
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov-nr/requests/issues
 
 
 ## Step 4

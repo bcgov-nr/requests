@@ -3,7 +3,7 @@ name: Request to Change Project Set Labels/Annotations
 about: Update product owner, technical lead, MISO/MPO/MCIO, etc
 title: ''
 labels: annotation-update
-assignees: caggles, ShellyXueHan
+assignees: webgismd
 
 ---
 
@@ -16,7 +16,7 @@ If you're looking to update the product owner or technical lead information, the
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov-nr/requests/issues
 
 
 ## Step 2

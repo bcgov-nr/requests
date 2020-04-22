@@ -3,13 +3,13 @@ name: New Request Type
 about: Request a missing request type to be added to the devops-requests list of issue templates.
 title: ''
 labels: new-request-type
-assignees: caggles, ShellyXueHan
+assignees: webgismd
 
 ---
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov-nr/requests/issues
 
 
 ## Step 2

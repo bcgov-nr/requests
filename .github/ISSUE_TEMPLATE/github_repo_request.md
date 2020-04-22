@@ -3,7 +3,7 @@ name: Request for private BCGOV GitHub Repository
 about: To create or remove a private BCGOV GitHub repository.
 title: ''
 labels: github-repo, pending
-assignees: caggles, ShellyXueHan, mitovskaol
+assignees: webgismd, mitovskaol
 
 ---
 
@@ -20,7 +20,7 @@ All projects in the private organization are required to be there temporarily. T
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov-nr/requests/issues
 
 
 ## Step 2

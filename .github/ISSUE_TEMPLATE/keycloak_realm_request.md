@@ -3,7 +3,7 @@ name: Request for KeyCloak Realm
 about: To create a set of KeyCloak Realms
 title: ''
 labels: keycloak-realm
-assignees: caggles, ShellyXueHan
+assignees: webgismd
 
 ---
 

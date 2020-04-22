@@ -3,7 +3,7 @@ name: Request for BCDevOps GitHub Repository
 about: To create or remove a BCDevOps GitHub repository.
 title: ''
 labels: github-repo, pending
-assignees: caggles, ShellyXueHan, mitovskaol
+assignees: webgismd, mitovskaol
 
 ---
 
@@ -18,7 +18,7 @@ This org is exclusively for the use of platform services. If you are not asking 
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov-nr/requests/issues
 
 ## Step 2
 Fill out the following fields. For security purpose, please provide the following contact information to the email address - pathfinder@gov.bc.ca
