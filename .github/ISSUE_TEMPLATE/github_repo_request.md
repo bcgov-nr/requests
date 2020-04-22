@@ -1,6 +1,6 @@
 ---
 name: Request for private BCGOV-NR GitHub Repository
-about: To create or remove a private BCGOV GitHub repository.
+about: To create or remove a private BCGOV-NR GitHub repository.
 title: ''
 labels: github-repo, pending
 assignees: webgismd
@@ -9,7 +9,7 @@ assignees: webgismd
 
 ## Step 0
 
-**Are you a member of the private BCGOV GitHub Organization already?**
+**Are you a member of the private BCGOV-NR GitHub Organization already?**
 If not, you will need to request membership first. Return to the Issues page and fill out that request first.
 
 **Are you sure you need to have your project code close-sourced?**
@@ -26,6 +26,7 @@ https://github.com/bcgov-nr/requests/issues
 ## Step 2
 Are you requesting to:
 - [x] Create a private repo
+- [ ] Create a public repo
 - [ ] Remove a private repo and go public
 
 

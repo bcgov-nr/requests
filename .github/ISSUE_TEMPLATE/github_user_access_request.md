@@ -1,6 +1,6 @@
 ---
 name: Request for BCGOV-NR GitHub Organization Membership
-about: To grant or remove access for a team member to BCGOV GitHub repositories.
+about: To grant or remove access for a team member to BCGOV-NR GitHub repositories.
 title: ''
 labels: github-membership
 assignees: webgismd
@@ -9,9 +9,9 @@ assignees: webgismd
 
 ## Step 0
 
-**Are you a member of the BCGOV GitHub Organization already?**
+**Are you a member of the BCGOV-NR GitHub Organization already?**
 
-Preferably, someone who is already a member of the BCGOV Github org should request access for you. 
+Preferably, someone who is already a member of the BCGOV-NR Github org should request access for you. 
 Consider asking someone to submit this ticket in your name in order to ensure that it is processed quickly.
 
 If you do not have access to a team lead or other org member to ask for membership on your behalf, a member of the Platform Experience team will contact you about your request once you have submitted it.
@@ -21,7 +21,7 @@ We will need to discuss your needs in a quick meeting before this request can be
 - Often, it works just fine to have a team member as a Collaborator on your repository, without them being a member of the `bcgov` GitHub organization. Before submitting this request, consider whether you could simply invite your team member to contribute as a Collaborator.  
   Instructions [here](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository).
 
-**Are you the admin of your project's BCGOV GitHub Repository?**
+**Are you the admin of your project's BCGOV-NR GitHub Repository?**
 If not, you need to ask your project repo's admin to make this request.
 
 
@@ -44,7 +44,7 @@ Are you requesting to:
 Fill out the following fields
 
 * Project Name: 
-* GitHub Org: bcgov or private
+* GitHub Org: bcgov-nr
 * Full Name: 
 * GitHub ID: @
 * GitHub Account 2FA Confirmed: yes or no
